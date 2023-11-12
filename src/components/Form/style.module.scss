@@ -1,0 +1,46 @@
+  .inputText {
+    width: 90%;
+    background-color: #101116;
+    color: rgb(244, 240, 240);
+    font-size: 1.2em;
+    border: 2px dashed #587099;
+    border-radius: 2px;
+    margin: 20px auto;
+    padding: 1vw;
+    resize: none;
+  }
+  
+  .formBtn {
+    background-color: #587099;
+    color: rgb(244, 240, 240);
+    border: none;
+    padding: 10px 15px 10px 15px;
+    border-radius: 2px;
+    font-size: 1.2em;
+  }
+
+  .comment {
+    margin: 10px auto;
+    border-bottom: 2px dashed #587099;
+    border-radius: 2px;
+    width: 90%;
+    text-align: left;
+    padding: 1vw;
+  }
+
+  .containerInputText{
+    margin: 3vw 0 1vw 0;
+  }
+
+  .subtitle {
+    font-size: 1.25em;
+    color: #587099;
+    font-weight: 800;
+  }
+
+  .error{
+    font-size: 1.25em;
+    color: #63281e;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
